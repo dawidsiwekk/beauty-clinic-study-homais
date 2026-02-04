@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background: rgb(185, 187, 167);
+    width: 380px;
+}
+img {
+    width: 100%;
+    padding: 20px;
+    border-radius: 50px;
+}
+h1 {
+    font-style: sans-serif;
+    font-weight: 100;
+    font-size: 1em;
+    padding-left: 20px;
+}
+h2 {
+    font-style: sans-serif;
+    font-weight: 500;
+    font-size: 2em;
+    padding-left: 20px;
+}
